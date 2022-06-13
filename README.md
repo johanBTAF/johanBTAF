@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johanBTAF
 - 👀 I’m interested in DApps
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on DApp multichain network for all cross payment gateway
 - 📫 How to reach me contact my email ; syahj307@gmail.com
 
 <!---
